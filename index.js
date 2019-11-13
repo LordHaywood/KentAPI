@@ -9,7 +9,6 @@ const responce = (res, ok, body) => {
   return res.send(JSON.stringify({ok, ...body, timestamp: new Date().getTime()}));
 }
 
-
 app.get('/calander', (req, res) => {
   const year = req.query.year;
   const program = req.query.program;
