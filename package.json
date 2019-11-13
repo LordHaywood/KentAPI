@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "passport-saml": "^1.2.0"
+  }
+}
