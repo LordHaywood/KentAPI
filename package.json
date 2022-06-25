@@ -3,7 +3,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.1-security",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "passport-saml": "^1.2.0"
   }
 }
